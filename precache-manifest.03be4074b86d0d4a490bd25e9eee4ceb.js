@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bae05a27ae441609f98555b21c872775",
+    "revision": "bd4a5419211ec2fa5dd2c9606640a800",
     "url": "/index.html"
   },
   {
-    "revision": "2d9d3d46a7c118823cdc",
+    "revision": "885cc2a83f7150ca8f9f",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "03bba90ddfcb5aba7167",
+    "revision": "36b080b5b1dee5a0b6ed",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "b97ad37e17be10b9bee6",
-    "url": "/static/css/main.1a6005f5.chunk.css"
+    "revision": "9ce4f273f5534cfffda2",
+    "url": "/static/css/main.23abf852.chunk.css"
   },
   {
-    "revision": "bd2534304673ba2ec371",
-    "url": "/static/js/2.ce48cb0a.chunk.js"
+    "revision": "e700d59276736dc1c8f0",
+    "url": "/static/js/2.e85f9fa3.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.ce48cb0a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e85f9fa3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d9d3d46a7c118823cdc",
-    "url": "/static/js/3.52fb1780.chunk.js"
+    "revision": "885cc2a83f7150ca8f9f",
+    "url": "/static/js/3.10324136.chunk.js"
   },
   {
-    "revision": "03bba90ddfcb5aba7167",
-    "url": "/static/js/4.6d9e7a09.chunk.js"
+    "revision": "36b080b5b1dee5a0b6ed",
+    "url": "/static/js/4.afe8fb20.chunk.js"
   },
   {
-    "revision": "b97ad37e17be10b9bee6",
-    "url": "/static/js/main.701d7f24.chunk.js"
+    "revision": "9ce4f273f5534cfffda2",
+    "url": "/static/js/main.5d0b37bc.chunk.js"
   },
   {
-    "revision": "492ed434d25c118c0922",
-    "url": "/static/js/runtime-main.ff5125a0.js"
+    "revision": "59ef1d25c7cea3a00476",
+    "url": "/static/js/runtime-main.42bbf704.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
