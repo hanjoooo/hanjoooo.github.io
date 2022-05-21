@@ -29,6 +29,7 @@ export default function Contact() {
                 isDark ? "dark-mode contact-text-div" : "contact-text-div"
               }
             >
+
               {contactInfo.number && (
                 <>
                   <a
