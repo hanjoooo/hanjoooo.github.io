@@ -31,11 +31,7 @@ const Portfolio = ({ data }) => (
 
       <PortfolioName>{data.markdownRemark.frontmatter.title}</PortfolioName>
 
-      <PortfolioPage>
-        <div
-          dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
-        ></div>
-      </PortfolioPage>
+
     </Container>
   </>
 )
