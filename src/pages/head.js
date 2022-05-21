@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet'
 const Head = () => (
   <Helmet>
     <meta charSet="utf-8" />
-    <title>Creative Portfolios</title>
+    <title>김한주 포트폴리오</title>
   </Helmet>
 )
 
